@@ -1,4 +1,4 @@
-# Luffydex.io
+# Luffydex__config.yml
 // Luffypedia - Single-file React App
 // How to use:
 // 1) Create a new React app (Vite recommended): `npm create vite@latest luffypedia --template react`
