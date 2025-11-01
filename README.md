@@ -1,4 +1,7 @@
 # Luffydex__config.yml
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
 // Luffypedia - Single-file React App
 // How to use:
 // 1) Create a new React app (Vite recommended): `npm create vite@latest luffypedia --template react`
